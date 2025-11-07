@@ -16,11 +16,5 @@ def main():
     print(f"saatiin {olutta.ota_varastosta(1000.0)}")
     print(f"Mehuvarasto: {mehua.ota_varastosta(-32.9)}")
 
-    print("hello")
-    print("hello")
-    print("hello")
-    print("hello")
-    print("hello")
-
 if __name__ == "__main__":
     main()
